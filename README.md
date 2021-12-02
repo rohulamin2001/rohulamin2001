@@ -12,7 +12,7 @@
 - 📫 How to reach me **social media**
 
 <h3 align="left">GITHUB TROPHY:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohulamin360" alt="rohulamin360" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemanrohul" alt="codemanrohul" /></a> </p>
 
 
 <h3 align="left">GITHUB STATE:</h3>
