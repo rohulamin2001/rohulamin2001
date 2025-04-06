@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohul Amin</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+<h3 align="center">A passionate fullstack developer </h3>
 
 - 📫 How to reach me **social media**
 
